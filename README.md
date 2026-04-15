@@ -20,7 +20,7 @@ Rainyun-Qiandao-V2 是一个基于 Selenium 和 ddddocr 的雨云自动签到工
 - Chrome 浏览器
 
 ## 安装步骤
-
+1
 ### 1. 环境要求
 - Python 3.9 或更高版本
 - Google Chrome 浏览器
